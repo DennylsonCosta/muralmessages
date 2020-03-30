@@ -6,6 +6,7 @@ Code Challenge - Mural de Mensagens
 - [] O usuário precisa poder postar uma mensagem no mural
 - [] O usuário precisa postar uma mensagem no mural
 - [] (opcional) A mensagem pode ser deletada
+- [] Gerar comunicação final com Swagger
 
 ## Requisitos não-funcionais
 
